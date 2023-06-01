@@ -18,4 +18,4 @@ USER ${NB_USER}
 
 EXPOSE 8765
 
-CMD ["solara", "run", "./pages", "--host=0.0.0.0"]
+#CMD ["solara", "run", "./pages", "--host=0.0.0.0"]
